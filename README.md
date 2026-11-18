@@ -1,32 +1,33 @@
-<img src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif" height="350" width="1500">
+# Hi, I'm Mugunthan M 👋
 
+**Full Stack Engineer** · Chennai, India
 
-<h1 align="center">Hi 👋, I'm Mugunthan</h1>
-<h3 align="center">I'm a MERN stack developer, proficient in MongoDB, Express.js, React.js, and Node.js for full-stack development.</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+I build SaaS products, payment systems and real-time apps with **Next.js, NestJS, TypeScript and PostgreSQL**, from the database and APIs to the UI and deployment.
 
-- 🔭 I’m currently working on **Mern stack projects**
+🌐 [Portfolio](https://mugunthan-portfolio.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/mugunthan-developer) · 📄 [Resume](https://mugunthan-portfolio.vercel.app/resume) · ✉️ mugunthansjc@gmail.com
 
-- 🌱 I’m currently learning **React , MERN**
+## 🚀 What I work on
 
-- 👨‍💻 All of my projects are available at [https://mugunthan-portfolio.vercel.app/](https://mugunthan-portfolio.vercel.app/)
+- **Billing and payments**: Stripe subscriptions, usage credits and payment webhooks; Razorpay and Zoho Payments
+- **AI products**: backend services and features for an AI interview platform
+- **Team productivity tools**: time and activity tracking for teams, similar to Hubstaff
 
-- 💬 Ask me about **Front end & Back end in MERN**
+## 🏆 Highlights
 
-- 📫 How to reach me **mugunthansjc@gmail.com**
+- **Ficodo**: multi-tenant clinic SaaS serving **50+ branches**, with 40+ REST APIs, role-based access and webhook-verified payments → [case study](https://mugunthan-portfolio.vercel.app/work/ficodo)
+- **TaskHub**: real-time team workspace I built solo for a 30-person team, saving **₹3.3 lakh/year** → [case study](https://mugunthan-portfolio.vercel.app/work/taskhub)
+- 🥇 **Employee of the Month** (Feb 2026) · 1st place, web development hackathon → [Elite Fitness](https://github.com/Mugunthan03/elite-fitness)
 
-- 📄 Know about my experiences [https://mugunthan-portfolio.vercel.app/resume.pdf](https://mugunthan-portfolio.vercel.app/resume.pdf)
+## 🛠 Tech stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mugunthan m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mugunthan m" height="30" width="40" /></a>
-</p>
+`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `NestJS` `Express` `PostgreSQL` `MongoDB` `Socket.io` `Stripe` `Razorpay` `JWT / OAuth` `AWS (EC2, S3)` `Nginx` `Vercel`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## ✍️ Recent writing
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mugunthan03&show_icons=true&locale=en&layout=compact" alt="mugunthan03" /></p>
+- [A founder burned $4,000 on AI credits building an app without a developer](https://mugunthan-portfolio.vercel.app/writing/vibe-coding-needs-a-developer)
+- [Founders don't want more features. They want fewer surprises.](https://mugunthan-portfolio.vercel.app/writing/fewer-surprises-not-more-features)
+- [From intern to Employee of the Month](https://mugunthan-portfolio.vercel.app/writing/intern-to-employee-of-the-month)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mugunthan03&show_icons=true&locale=en" alt="mugunthan03" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugunthan03&" alt="mugunthan03" /></p>
+💬 Open to full stack roles and interesting SaaS problems. Say hi on [LinkedIn](https://www.linkedin.com/in/mugunthan-developer) or by email.
