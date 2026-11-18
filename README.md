@@ -1,3 +1,5 @@
+<p align="center"><img src="./banner.svg" alt="Mugunthan M, Full Stack Engineer: SaaS, payments and real-time apps" width="100%"></p>
+
 # Hi, I'm Mugunthan M 👋
 
 **Full Stack Engineer** · Chennai, India
